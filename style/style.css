@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+body{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 50px;
+}
+.ready{
+  padding: 50px;
+  text-align: center;
+  height: 923px;
+  border: 5px solid rgb(39, 17, 17);
+}
+ul{
+    background-color: rgb(104, 197, 12);
+}
+    ul li{
+        list-style: none;
+        cursor: pointer;
+        padding: 10px;
+        border:solid 3px #333A40;
+    }
+.footer{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 100%;
+    background-color: #000;
+    border-radius: 8px;
+    text-align: center;
+    color: aliceblue;
+}
