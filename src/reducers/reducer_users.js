@@ -46,7 +46,7 @@ export default function () {
     {
       name: 'ROBERT DE NIRO',
       id: 7,
-      films: 'SETE',
+      films: " Mean Streets (1973), Le Parrain 2 (1974), Taxi Driver (1976), 1900 (1976), Voyage au bout de l'enfer (1978), Raging Bull (1980), La Valse des pantins (1983), Il était une fois en Amérique (1984), Brazil (1985), Mission (1986), Angel Heart (1987), Les Incorruptibles (1987), Midnight Run (1988), Les Affranchis (1990), L'Éveil (1990), Les Nerfs à vif (1991), La Liste noire (1991), Backdraft (1991), Hollywood Mistress (1992), Il était une fois le Bronx (1993), Blessures secrètes (1993), Frankenstein (1994), Heat (1995), Casino (1995), Sleepers (1996), Le Fan (1996), Simples Secrets (1996), Jackie Brown (1997), Des hommes d'influence (1997), Copland (1997), Ronin (1998), Mafia Blues (1999), The Score (2001), Limetless (2011), Happiness Therapy (2012), Joker (2019) et The Irishman (2019)",
       img: "../images/act8.jpg",
       imgThumbnail: "../images/act8Thumbnail.jpg"
     },
