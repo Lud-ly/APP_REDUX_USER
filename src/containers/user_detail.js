@@ -18,12 +18,13 @@ class UserDetail extends Component {
         return (
             <div>
                 <div className="col-md-9">
+                    <h2>TOP 10 MEILLEURS ACTEURS {myActiveUser.club}</h2>
                     <div className="card">
                         <div className="card-header">
-                            <h3>TOP 10 MEILLEURS ACTEURS{myActiveUser.club} Voici {myActiveUser.name}</h3>
+                            <h3> Voici {myActiveUser.name}</h3>
+                            <img src={myActiveUser.img} />
                         </div>
                         <div className="card-body">
-                            <img src={myActiveUser.img} />
                             <ul>
                                 <li>Numéro : {myActiveUser.id}</li><br />
                                 <li>Poste : {myActiveUser.role}</li><br />
